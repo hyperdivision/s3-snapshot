@@ -1,10 +1,10 @@
 {
-  "name": "@hyperdivision/s3-snapshot",
+  "name": "s3-snapshot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "dependencies": {
     "last-one-wins": "^1.0.4",
